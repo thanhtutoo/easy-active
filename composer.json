@@ -14,5 +14,16 @@
     "psr-4": {
         "Thanhtut\\EasyActive\\": "src/"
     }
-    }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Thanhtut\\EasyActive\\EasyActiveServiceProvider"
+            ],
+            "aliases": {
+                "Active": "Watson\\Watson\\Facades\\Active"
+            }
+        }
+    },
+    "minimum-stability": "stable"
 }
