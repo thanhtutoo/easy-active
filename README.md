@@ -4,8 +4,9 @@ Active is a helper package for Laravel that makes it easy to provide the active 
 
 
 
-Installation
-Install with composer:
+##Installation
+
+##Install with composer:
 ```
 composer require thanhtut/easy-active dev-master
 ```
