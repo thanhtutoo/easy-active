@@ -1,4 +1,9 @@
-# easy-active
+Easy Active Class for html markup in laravel
+==================
+Active is a helper package for Laravel that makes it easy to provide the active class in html markup.
+
+
+
 Installation
 Install with composer:
 ```
