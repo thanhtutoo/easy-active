@@ -1,0 +1,13 @@
+{
+    "name": "thanhtut/easy-active",
+    "description": "To provide the active class in html markup for laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thanhtut",
+            "email": "thanhtutoo.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
